@@ -16,8 +16,8 @@ from oAuth import authenticate
 SPREADSHEET_ID = '1qSxNCeUAZ3TXO-IbdJaacGBJvGhgvIbxTqYeM8e8B1g'
 SHEET_ID = 1434803629
 RANGE_NAME = 'Tiers!A2:M'
-ROW_INDEX = 16
-COLUMN_INDEX = 3
+# ROW_INDEX = 16
+# COLUMN_INDEX = 3
 SHEET_NAMES = ["Tierlist", "Tiers"]
 SPREADSHEET_ARRAY = []
 
